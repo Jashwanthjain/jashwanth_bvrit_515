@@ -211,6 +211,7 @@ public interface StudentArrayOperation {
 	 */
 	Student[] getBetweenBirthDates(Date firstDate, Date lastDate);
 
+
 	
 	/**
 	 * Returns all students with birthday to the specified date and in several
